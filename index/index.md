@@ -7,6 +7,14 @@
 ```
 #: sudo apt-get install mysql-server
 ```
+*Windows系统下安装 mysql:*
+
+参考https://www.cnblogs.com/wanggang2016/p/10425780.html
+
+Win10环境变量配置：https://blog.csdn.net/yeyueqin/article/details/92801051
+
+注：该链接中的某些cmd指令需要以管理员权限运行。（cmd以管理员身份打开）
+
 
 ## 登入mysql
 ### 根用户登入
