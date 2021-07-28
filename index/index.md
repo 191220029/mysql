@@ -1,5 +1,5 @@
 # mysql 手册
-***环境：Ubuntu(64 - bit)***
+***默认环境：Ubuntu(64 - bit)***
 
 *指令中带*‘_’*前缀的词素表示参数*
 ## 安装 mysql
@@ -109,7 +109,7 @@ Reload privilege tables now? (Press y|Y for Yes, any other key for No) : Y
 ```
 启动 mysql 服务：
 ```
-#: service mysql status
+#: service mysql start
 ```
 关闭 mysql 服务：
 ```
